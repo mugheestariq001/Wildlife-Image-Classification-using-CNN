@@ -4,9 +4,9 @@ This project involves building a model to recognize and classify images of wildl
 
 ## Authors
 
-- Mughees Tariq (01-134212-093)
-- Muhammad Hamza (01-134212-116)
-- Muzammal Bilal (01-134212-219)
+- Mughees Tariq 
+- Muhammad Hamza 
+- Muzammal Bilal 
 
 ## Table of Contents
 
